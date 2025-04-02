@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) meu perfil 😁
 
  <div>
    <a href="https://github.com/Thiago-Henrique17
@@ -17,7 +17,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Minhas redes abaixo!
  
 <div> 
   <a href="[https://www.linkedin.com/in/ricardohdias](https://www.linkedin.com/in/thiago-henrique-santos-de-melo-884878267/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
